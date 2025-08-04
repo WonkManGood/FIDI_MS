@@ -1,5 +1,4 @@
-# FIDI_MS
-(Fine, I'll do it _ my self)\n
+# FIDI_MS - (Fine, I'll do it _ my self)
 Simple Two-Wire bus protocol for ESP to ESP communication. 
 
 > Now before you go and look at the source code, hear me out. For my own lack of knowledge, this is in Python. I'd much rather a faster and more reliable language for this, but out of laziness, here I am. And while yes, I'm sure there's other libraries out there for this and implimented much better, I enjoy figuring things out myself. This file may not fit your needs, but it serves its purpose in mine. Do what you will with that.
