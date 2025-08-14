@@ -35,7 +35,7 @@ class TwoWire(__mapping__):
         self._clk = clk
         self.clk = Pin(self._clk, Pin.OUT, value=0)
         
-        self.speed_scale = 0.06
+        self.speed_scale = speed_scale
     
     def _reverseDict_(self, arg1):
         for i in self.map:
